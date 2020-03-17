@@ -1,6 +1,7 @@
 
 Timeline:
 
+* 2020/03/17: FSTL1 high expression in fibroblasts was [regulated](FSLT1_gene-exp-plot.svg) by [hypomethylation](FLS_in_FLS_5mC.pdf)
 * 2020/03/05: extract FSTL1 genotypes from Exome-sequencing data and save it in DeepThought server (ERIC)
 * 2020/01/16: We should have roughly 70 RA patients as defined by a positive lab test (RF and/or anti-CCP), 
 * 2020/01/16: 25 RA patients as defined by positive lab test, 2 ICD9, and medications, and hundreds of controls.  
